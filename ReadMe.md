@@ -2,7 +2,7 @@
 
 ![](https://cdn.discordapp.com/attachments/833023359817220169/1018084512112066651/Bash-.png) Install script:
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/TobiDev01/Pterodactyl/main/pterodactyl.sh)
+bash <(curl -s https://raw.githubusercontent.com/APOLAF89/Pterodactyl_new/main/pterodactyl.sh)
 ```
 
 Options:
